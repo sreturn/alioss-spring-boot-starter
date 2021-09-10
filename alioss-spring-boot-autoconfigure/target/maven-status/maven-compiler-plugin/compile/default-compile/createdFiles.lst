@@ -1,0 +1,8 @@
+com\sreturn\autoconfigure\AliOssProperties.class
+com\sreturn\autoconfigure\AliOssAutoConfiguration.class
+com\sreturn\autoconfigure\PrinterClient.class
+com\sreturn\annotation\EnableAlioss.class
+com\sreturn\service\AliOssFileService.class
+com\sreturn\entity\OssFileUploadResult.class
+com\sreturn\entity\OssFileDetail.class
+META-INF\spring-configuration-metadata.json
